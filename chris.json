@@ -25,7 +25,7 @@
         "teacher" : "Mr. Scinto",
         "roomNumber" : "D110",
         "period": "Period 4",
-        "subjectArea": "Buisness"
+        "subjectArea": "Business"
     },
       {
         "className" : "Precalculus",
@@ -54,7 +54,7 @@
         "teacher" : "Mr. Morgan",
         "roomNumber" : "A132",
         "period": "Period 7",
-        "subjectArea": "Buisness"
+        "subjectArea": "Business"
     },
         {
         "className" : "Fine Art 1",
