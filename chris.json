@@ -1,0 +1,67 @@
+[
+    {
+        "className" : "BCC ENG121 The Writing Process",
+        "teacher" : "Mrs. Reganato",
+        "roomNumber" : "E117",
+        "period": "Period 1",
+        "subjectArea": "English"
+    },
+    {
+        "className" : "Honors NJIT IS219 Advanced Website Development WDP",
+        "teacher" : "Mr. Kilgore",
+        "roomNumber" : "B111",
+        "period": "Period 2",
+        "subjectArea": "Technology"
+    },
+     {
+        "className" : "Study Hall",
+        "teacher" : "Mr. Cooper",
+        "roomNumber" : "C101",
+        "period": "Period 3",
+        "subjectArea": "Gym"
+    },
+    {
+        "className" : "Accounting 1",
+        "teacher" : "Mr. Scinto",
+        "roomNumber" : "D110",
+        "period": "Period 4",
+        "subjectArea": "Buisness"
+    },
+      {
+        "className" : "Precalculus",
+        "teacher" : "Mr. Mara",
+        "roomNumber" : "E204",
+        "period": "Period 5",
+        "subjectArea": "Math"
+    },
+
+     {
+        "className" : "Sociology",
+        "teacher" : "Mr. Wisniewski",
+        "roomNumber" : "A105",
+        "period": "Period 6",
+        "subjectArea": "History"
+    },
+     {
+        "className" : "Applied Art 1",
+        "teacher" : "Mrs. Fraser",
+        "roomNumber" : "D101",
+        "period": "Period 6",
+        "subjectArea": "Art"
+    },
+    {
+        "className" : "Financial Literacy",
+        "teacher" : "Mr. Morgan",
+        "roomNumber" : "A132",
+        "period": "Period 7",
+        "subjectArea": "Buisness"
+    },
+        {
+        "className" : "Fine Art 1",
+        "teacher" : "Mrs. Fraser",
+        "roomNumber" : "D101",
+        "period": "Period 7",
+        "subjectArea": "Art"
+
+    }
+]
