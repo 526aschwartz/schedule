@@ -4,62 +4,62 @@
         "teacher" : "Mrs. Mullin",
         "roomNumber" : "E211",
         "period" : "Period 1",
-        "subjectAre" : "Math"
+        "subjectArea" : "Math"
     },
         {
         "className" : "Study Hall",
         "teacher" : "Mr. Walsh",
         "roomNumber" : "C101",
         "period" : "Period 2",
-        "subjectAre" : "Gym"
+        "subjectArea" : "Gym"
     },
         {
         "className" : "AP Environmental Science",
         "teacher" : "Mrs. Tsakiris",
         "roomNumber" : "E221",
         "period" : "Period 3",
-        "subjectAre" : "Science"
+        "subjectArea" : "Science"
     },
         {
         "className" : "BCC ENG121 The Writing Process",
         "teacher" : "Mr. Sauter",
         "roomNumber" : "E111",
         "period" : "Period 4",
-        "subjectAre" : "English"
+        "subjectArea" : "English"
     },
           {
         "className" : "BCC ENG155 The Short Story",
         "teacher" : "Mr. Sauter",
         "roomNumber" : "E111",
         "period" : "Period 4",
-        "subjectAre" : "English"
+        "subjectArea" : "English"
     },
         {
         "className" : "AP Computer Science A",
         "teacher" : "Mrs. Rehwinkel",
         "roomNumber" : "A234",
         "period" : "Period 5",
-        "subjectAre" : "Computer Science"
+        "subjectArea" : "Computer Science"
     },
         {
         "className" : "Financial Literacy",
         "teacher" : "Mr. Morgan",
         "roomNumber" : "A132",
         "period" : "Period 6",
-        "subjectAre" : "Business"
+        "subjectArea" : "Business"
     },
         {
         "className" : "Fine Art 1",
         "teacher" : "Mrs. Rucci",
         "roomNumber" : "D103",
         "period" : "Period 6",
-        "subjectAre" : "Art"
+        "subjectArea" : "Art"
     },
         {
         "className" : "Honors NJIT IS219 Advanced Website Development WDP",
         "teacher" : "Mr. Kilgore",
         "roomNumber" : "B111",
         "period" : "Period 7",
-        "subjectAre" : "Web Design"
+        "subjectArea" : "Web Design"
     }
 ]

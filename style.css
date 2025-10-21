@@ -1,0 +1,140 @@
+body {
+  background: #f7f9fc;
+  color: #af4abc;
+  margin: 0;
+  padding: 20px;
+}
+
+h1 {
+  color: #af4abc;
+  margin-bottom: 25px;
+  font-family: "retros", sans-serif;
+font-weight: 600;
+font-style: normal;
+  font-size: 40px;
+}
+
+/* Dropdown button */
+.dropbtn {
+  background: #af4abc;
+  color: white;
+  padding: 10px 16px;
+  border-radius: 6px;
+  font-weight: bold;
+}
+
+.dropbtn:hover {
+  background: #f39cff;
+  color: #af4abc;
+}
+
+/* Dropdown menu */
+.dropdown {
+  position: relative;
+  display: inline-block;
+  z-index: 100; 
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background: white;
+  border: 1px solid #af4abc;
+  border-radius: 6px;
+  min-width: 150px;
+  z-index: 200; 
+}
+
+.dropdown-content a {
+  display: block;
+  padding: 8px 12px;
+  text-decoration: none;
+  color: #af4abc;
+}
+
+.dropdown-content a:hover {
+  background: #f39cff;
+  color: #af4abc;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+/* Selected friend link */
+.dropdown-content a.selected {
+  background: #af4abc;
+  color: white;
+}
+
+/* Friend name header */
+#friend-name {
+  text-align: center;
+  font-size: 1.8em;
+  color: #af4abc;
+  margin: 25px 10px;
+}
+
+/* Grid layout for cards */
+#json-display {
+  margin-top: 25px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 20px;
+  justify-content: center;
+  padding: 0 15px;
+}
+
+/* Individual class cards */
+.class-card {
+  background: white;
+  border: 2px solid #af4abc;
+  border-radius: 10px;
+  padding: 15px 20px;
+  box-shadow: 0 3px 6px rgba(175, 74, 188, 0.2);
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.class-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 6px 12px rgba(175, 74, 188, 0.3);
+}
+
+/* Card header section */
+.card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 2px solid #f39cff;
+  padding-bottom: 6px;
+  margin-bottom: 10px;
+}
+
+.card-header h3 {
+  margin: 0;
+  font-size: 1.1em;
+  color: #af4abc;
+}
+
+.card-header .subject {
+  background: #f39cff;
+  color: #af4abc;
+  padding: 4px 10px;
+  border-radius: 10px;
+  font-size: 0.8em;
+  font-weight: bold;
+}
+
+/* Card body content */
+.card-body .class-name {
+  font-weight: bold;
+  font-size: 1.05em;
+  color: #af4abc;
+  margin-bottom: 6px;
+}
+
+.card-body p {
+  margin: 4px 0;
+  color: #555;
+  font-size: 0.95em;
+}
